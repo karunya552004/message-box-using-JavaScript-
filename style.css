@@ -40,7 +40,7 @@ fieldset {
     width: 100px;
     height: 100px;
     margin-top: 5px;
-    margin-left: 5px;
+    margin-left: 0px;
     border-radius: 50%;
  }
  .border{
