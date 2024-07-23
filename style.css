@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 233, 205);
+}
+fieldset {
+    border: 2px solid black;
+    width: 400px;
+    height: 300px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: rosybrown;
+    box-shadow: 10px 10px 10px  rosybrown;
+}
+/* .border,h3{
+    text-align: center;
+
+} */
+ .btn1{
+   background-color: rgb(247, 186, 32);
+   color: black;
+   border-style: none;
+   margin-top: 22px;
+   margin-left: 20px;
+   margin-right: 10px;
+   width: 60px;
+   height: 30px;
+   border-radius: 4px;
+ }
+ .area{
+    width: 300px;
+    height: 55px;
+    margin-top: 20px;
+    border: 2px solid black;
+    background-color: white;
+    text-align: center;
+ }
+ img{
+    width: 100px;
+    height: 100px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 50%;
+ }
+ .border{
+ margin-left: 380px;
+ }
